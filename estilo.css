@@ -1,0 +1,22 @@
+body{
+    background: rgb(0, 0, 0);
+}
+
+p.center{
+    text-align: center;
+    color: chartreuse;
+    font-size: 70px;
+    font-family: sans-serif;
+}
+p.cor{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+h1,h2,h3{
+    color: palevioletred;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
